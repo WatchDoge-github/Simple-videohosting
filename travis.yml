@@ -1,5 +1,4 @@
-language: java
-jdk: openjdk21
+language: php
 script:
   - ./gradlew build
 after_success:
